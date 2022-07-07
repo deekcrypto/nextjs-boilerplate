@@ -1,19 +1,20 @@
 <p align="center">
-  <a href="" rel="noopener">
+  <a href="" rel="noopener"></a>
 </p>
 
-<h1 align="center">Next.js Boilerplate</h3>
+<h1 align="center">
+
+Next.js Boilerplate
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/deekcrypto/nextjs-boilerplate/)
 [![GitHub Issues](https://img.shields.io/github/issues/deekcrypto/nextjs-boilerplate.svg)](https://github.com/deekcrypto/nextjs-boilerplate/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/deekcrypto/nextjs-boilerplate.svg)](https://github.com/deekcrypto/nextjs-boilerplate/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
-
----
+</h1>
 
 <p align="center">
 	Extremely lightweight boilerplate for Next.js.
@@ -59,4 +60,4 @@ Head to http://localhost:3000 to view the project.
 ## License
 Licensed under the MIT License, Copyright © 2022
 
-See [LICENSE](https://github.com/deekcrypto/nextjs-boilerplate/blob/master/LICENSE) for more information.
+See [LICENSE](https://github.com/deekcrypto/nextjs-boilerplate/blob/main/LICENSE) for more information.
